@@ -11,6 +11,7 @@
   },
   "author": "wendux",
   "license": "MIT",
+  "repository": "https://github.com/wendux/node-http-static-server",
   "dependencies": {
     "args": "^5.0.3",
     "koa": "^2.13.4",
